@@ -1,1 +1,65 @@
-# paperdestroyersupport
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Paper Destroyer Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 700px;
+      margin: 50px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #e25822;
+      font-size: 28px;
+    }
+    p {
+      line-height: 1.6;
+    }
+    a {
+      color: #e25822;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Paper Destroyer Support</h1>
+    <p>Need help with <strong>Paper Destroyer</strong>? We're here to assist!</p>
+
+    <h3>🔧 Troubleshooting</h3>
+    <p>If you're encountering bugs or crashes, try restarting the app or reinstalling it. For persistent issues, please reach out to us directly.</p>
+
+    <h3>📬 Contact Us</h3>
+    <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+
+    <h3>❓ Frequently Asked Questions</h3>
+    <p>Coming soon! We’re building a full FAQ to help you with common issues and gameplay tips.</p>
+
+    <h3>🐞 Report a Bug</h3>
+    <p>Found a bug? <a href="https://github.com/yourusername/paper-destroyer/issues">Open an issue on GitHub</a> or email us directly.</p>
+
+    <div class="footer">
+      &copy; 2025 Paper Destroyer. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
